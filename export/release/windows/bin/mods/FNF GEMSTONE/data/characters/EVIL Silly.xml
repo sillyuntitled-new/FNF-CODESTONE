@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-600" y="-550" sprite="EVIL Silly V2" scale="0.4" icon="icon-evilsilly" color="#632425">
+	<anim name="idle" anim="idle" fps="3" loop="true"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+</character>

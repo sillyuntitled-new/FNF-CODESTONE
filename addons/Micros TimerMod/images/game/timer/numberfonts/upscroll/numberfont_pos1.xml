@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="numberfont_pos1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zero0000" x="0" y="0" width="34" height="31" />
+	<SubTexture name="one0000" x="34" y="0" width="34" height="31" />
+	<SubTexture name="two0000" x="0" y="31" width="34" height="31" />
+	<SubTexture name="three0000" x="34" y="31" width="34" height="31" />
+	<SubTexture name="four0000" x="0" y="62" width="34" height="31" />
+	<SubTexture name="five0000" x="34" y="62" width="34" height="31" />
+	<SubTexture name="six0000" x="0" y="93" width="34" height="31" />
+	<SubTexture name="seven0000" x="34" y="93" width="34" height="31" />
+	<SubTexture name="eight0000" x="0" y="124" width="34" height="31" />
+	<SubTexture name="nine0000" x="34" y="124" width="34" height="31" />
+</TextureAtlas>

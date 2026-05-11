@@ -1,0 +1,28 @@
+<!DOCTYPE codename-mod-options>
+<menu name="Micro's TimerMod" desc="Settings for Microkat's TimerMod!">
+	<checkbox id="microTimerMod" name="Timer On" desc="Toggles the existence of Micro's TimerMod (may as well uninstall)"/>
+	<choice id="timerStyle" name="Timer Style?" desc="Style of the timer; has the ability to change FNF UI as well">
+		<value name="Micro" value="default" desc="Cool timer that I made aaaaaaall by myself :D" />
+		<value name="Psych" value="psychEngine" desc="A sloppy recreation of the timer as seen in Psych Engine" />
+	</choice>
+	<choice id="timerColor" name="Timer Color?" desc="The color of the bar (which makes the timer a timer)">
+		<value name="White" value="defColor" desc="Default color; color of any basic timer (unless your name is Kade)" />
+		<value name="Green" value="green" desc="(speaking of Kade...)" />
+		<value name="BF Color" value="BFC" desc="Healthbar color of player 2 (boyfriend) in the chart" />
+		<value name="Dad Color" value="dadC" desc="Ditto but player 1 (dad)" />
+	</choice>
+	<menu id="microStyleMenu" name="Micro's Timer Menu" desc="Options menu for Micro Timer">
+		<checkbox id="isClock" name="Clock Visible?" desc="Toggles the decorative timer graphic with kind of-functional hands" />
+		<choice id="microDisplayed" name="Displayed?" desc="The info which is displayed on the timer">
+			<value name="Time Remaining" value="microRemaining" desc="The amount of time remaining until song's-end" />
+			<value name="Time Elapsed" value="microElapsed" desc="The amount of time elapsed total during the song" />
+		</choice>
+	</menu>
+	<menu id="psychStyleMenu" name="Psych Timer Menu" desc="Options menu for Psych Timer">
+		<choice id="psychDisplayed" name="Displayed?" desc="The info which is displayed on the timer">
+			<value name="Time Remaining" value="psychRemaining" desc="The amount of time remaining until song's-end" />
+			<value name="Time Elapsed" value="psychElapsed" desc="The amount of time elapsed total during the song" />
+			<value name="Song Name" value="psychSN" desc="Psych-exclusive option to display the song name instead of timer info (also mandatory in Kade Engine)" />
+		</choice>
+	</menu>
+</menu>

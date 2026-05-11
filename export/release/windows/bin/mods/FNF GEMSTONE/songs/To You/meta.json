@@ -1,0 +1,20 @@
+{
+	"customValues": {
+		"composer": "Landelsoup",
+		"chart": "Brayfruit",
+		"colorReal": "EB2038",
+		"songType": "Bonus"
+	},
+	"color": "#A4D0FF",
+	"opponentModeAllowed": false,
+	"icon": "Looky To You",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "To You!",
+	"beatsPerMeasure": 3,
+	"needsVoices": true,
+	"bpm": 204
+}

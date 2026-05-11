@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" y="-200" camx="-250" camy="-200" isPlayer="true" icon="icon-silly" color="#243463">
+	<anim name="idle" anim="idle" fps="5" loop="true"/>
+	<anim name="singDOWN" anim="down" y="-20"/>
+	<anim name="singRIGHT" anim="right" x="51"/>
+	<anim name="singLEFT" anim="left" x="-20"/>
+	<anim name="singUP" anim="up" x="10" y="65"/>
+</character>

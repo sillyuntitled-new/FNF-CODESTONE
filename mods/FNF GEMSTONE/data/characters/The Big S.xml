@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" y="-200" scale="1.1" camx="-350" icon="The Big S">
+	<anim name="idle" anim="idle" fps="3" loop="true"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+</character>

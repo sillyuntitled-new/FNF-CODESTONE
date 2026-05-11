@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" scrollspeed="1">
+	<layer name="bg"/>
+	<layer name="mid"/>
+	<layer name="fg"/>
+	<layer name="chars"/>
+
+	<combo/>
+
+	<!-- Background Elements -->
+	<sprite sprite="ammarvoid/darkBottom" name="darkGround" pos="-800,-120" scale="3,2" scroll="0,0" layer="bg"/>
+
+	<!-- Characters -->
+	<gf pos="400,130" scale="1,1" scroll="1,1" layer="chars"/>
+	<dad pos="-300,150" scale="1,1" scroll="1,1" layer="chars"/>
+	<bf pos="1170,50" scale="1,1" scroll="1,1" layer="chars"/>
+
+</stage>

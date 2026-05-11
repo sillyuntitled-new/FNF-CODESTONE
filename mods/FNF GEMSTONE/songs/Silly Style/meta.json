@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#004CB3",
+	"opponentModeAllowed": false,
+	"icon": "Silly V4",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Silly Style",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 185
+}

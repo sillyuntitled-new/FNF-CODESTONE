@@ -1,0 +1,17 @@
+{
+	"color": "#71ADFD",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard",
+		"normal",
+		"easy"
+	],
+	"icon": "Sapphire",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "B]",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 169
+}

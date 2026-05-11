@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/trickster/" name="Trickster" zoom="0.5">
+	<girlfriend/>
+	<sprite x="-570.743114241774" sprite="bg" y="-472.863233886517" type="none" scalex="1.48541999029143" scaley="1.42996298485518" name="sprite_3"/>
+	<dad x="33.0368219287222" y="82.4754278111882"/>
+	<boyfriend scale="1" x="739.970033139562" angle="0.31" y="106.756828460013"/>
+	<sprite x="-665.230411726549" sprite="audience" y="-384.668535132964" type="none" scalex="1.41693097800599" angle="0.143780609795613" scaley="1.30577938499032" name="sprite_4"/>
+</stage>

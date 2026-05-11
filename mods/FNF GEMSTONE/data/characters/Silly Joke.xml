@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character flipX="true" icon="Silly V4" color="#2B4563">
+	<anim name="idle" anim="Silly Joke idle"/>
+	<anim name="singDOWN" anim="Silly Joke down"/>
+	<anim name="singRIGHT" anim="Silly Joke right"/>
+	<anim name="singLEFT" anim="Silly Joke left"/>
+	<anim name="singUP" anim="Silly Joke up"/>
+</character>

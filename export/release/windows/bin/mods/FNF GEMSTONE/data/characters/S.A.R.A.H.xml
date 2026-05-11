@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" sprite="SARAH" camx="-100" camy="100">
+	<anim name="idle" anim="idle instance 1" fps="12" loop="true"/>
+	<anim name="singDOWN" anim="down instance 1" x="70" y="22" fps="42"/>
+	<anim name="singRIGHT" anim="right instance 1" x="115" y="60" fps="42"/>
+	<anim name="singLEFT" anim="left instance 1" x="155" y="55" fps="42"/>
+	<anim name="singUP" anim="up instance 1" x="45" y="135" fps="42"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/sillyexstage/" name="Silly EX Stage" zoom="0.25">
+	<sprite x="-20.2264697815554" sprite="galaxy" y="-258.263852829026" type="none" scalex="4.42669423935579" angle="4.02224312865032" scaley="4.44914101327958" name="beach"/>
+	<sprite x="-975.149801687043" sprite="left broken ground" y="247.355058233256" type="none" name="sprite_4"/>
+	<sprite x="807.260558643567" sprite="right broken ground" y="517.992191796288" type="none" name="sprite_5"/>
+	<sprite x="237.841423000544" sprite="sun" y="-428.114561400979" type="none" scalex="1.8324449805019" scaley="1.79280474333515" name="sprite_6"/>
+	<girlfriend x="-5363.92609499377" angle="10.7687558005085" y="2927.15250284968"/>
+	<dad x="-197.955410992672" y="166.921789419667"/>
+	<boyfriend x="1414.76464981709" y="339.027306356124"/>
+</stage>

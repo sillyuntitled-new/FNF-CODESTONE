@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" y="-175" sprite="Looky FNF" scale="0.75" isPlayer="true" icon="Looky" color="#4994FF">
+	<anim name="idle" anim="Idle" fps="46" loop="true"/>
+	<anim name="singDOWN" anim="Down" x="-35" y="-40" fps="80"/>
+	<anim name="singRIGHT" anim="Left" x="-115" fps="80"/>
+	<anim name="singLEFT" anim="Right" x="245" fps="80"/>
+	<anim name="singUP" anim="Up" x="35" y="20" fps="80"/>
+</character>

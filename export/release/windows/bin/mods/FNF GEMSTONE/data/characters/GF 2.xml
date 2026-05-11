@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="faithGF-ASSets" icon="icon-gf" color="#A5004D">
+	<anim name="idle" anim="GF idle"/>
+	<anim name="singDOWN" anim="GF singDOWN"/>
+	<anim name="singRIGHT" anim="GF singRIGHT"/>
+	<anim name="singLEFT" anim="GF singLEFT"/>
+	<anim name="singUP" anim="GF singUP"/>
+	<anim name="GF hey" anim="GF hey"/>
+	<anim name="GF sad" anim="GF sad"/>
+	<anim name="GF scared" anim="GF scared"/>
+	<anim name="GF 200combo" anim="GF 200combo"/>
+	<anim name="GF falling hair" anim="GF falling hair"/>
+	<anim name="GF idle blowing hair" anim="GF idle blowing hair"/>
+</character>

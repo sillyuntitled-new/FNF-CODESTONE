@@ -1,0 +1,15 @@
+{
+	"color": "#000000",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "face",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Shucks",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 195
+}

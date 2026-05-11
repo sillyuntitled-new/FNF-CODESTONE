@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="mistake/youtube/" name="HQ" zoom="0.75">
+	<sprite x="-507.657685448961" sprite="bg" y="-458.213502671449" type="none" skewx="0.142704847538121" scalex="2.33754397214791" scaley="2.39503420666488" name="sprite_5"/>
+	<sprite x="-538.748022901331" sprite="videos" y="-915.871640589472" type="none" scalex="1.39246544777304" angle="-0.875515933665383" scaley="1.49585281953184" name="sprite_6"/>
+	<sprite x="1683.51578323873" sprite="videos" y="-938.008386203602" type="none" scalex="1.95466007408649" angle="3.93325567039746" scaley="1.53819242549784" name="sprite_7"/>
+	<sprite x="-142.205834200581" sprite="bottomGlow" y="313.155706563218" type="none" scalex="3.73744762677462" scaley="2.23532823101861" name="sprite_8"/>
+	<sprite x="-515.276724917936" sprite="ground" y="842.837077171394" type="none" scalex="1.9126633779621" scaley="2.86605460744095" name="sprite_4"/>
+	<sprite x="464.046681378659" sprite="YT" y="-189.574533485404" type="none" scalex="1.29566251583214" scaley="1.25617839947632" name="Ground"/>
+	<girlfriend/>
+	<dad x="-133.849336732774" y="100.000009054204"/>
+	<boyfriend x="1013.45953355917" y="103.203414915252"/>
+</stage>

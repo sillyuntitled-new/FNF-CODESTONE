@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" y="-100" sprite="sapphire 2" scale="1.4" camx="-550" camy="-50" color="#6784FF">
+	<anim name="idle" anim="Idle instance 1" loop="true"/>
+	<anim name="singDOWN" anim="Down instance 1" x="10" y="25"/>
+	<anim name="singRIGHT" anim="Right instance 1" x="-20" y="65"/>
+	<anim name="singLEFT" anim="Left instance 1" x="20" y="-5.71"/>
+	<anim name="singUP" anim="Up instance 1" x="10" y="45"/>
+</character>

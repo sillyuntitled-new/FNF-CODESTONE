@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-900" y="-400" sprite="emerald" scale="0.9" flipX="true" camx="500" isPlayer="true" icon="Emerald" color="#9CFFC5">
+	<anim name="idle" anim="Idle instance 1" x="-3.33" y="-1.11" loop="true"/>
+	<anim name="singDOWN" anim="Down instance 1" y="-10" fps="72"/>
+	<anim name="singRIGHT" anim="Right instance 1" x="-80" fps="72"/>
+	<anim name="singLEFT" anim="Left instance 1" x="130" fps="72"/>
+	<anim name="singUP" anim="Up instance 1" y="60" fps="72"/>
+</character>

@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#000CB8",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "Sapphire",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Sillyplush",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 145
+}

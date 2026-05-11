@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/abbey/" name="Abbey" zoom="0.4">
+	<girlfriend/>
+	<sprite x="40" scroll="0.95" sprite="street" y="-172" type="none" scale="2.31" name="bg"/>
+	<sprite x="-449" scroll="0.4" sprite="thing/back" y="-306" scale="5.7" name="back"/>
+	<sprite x="-548.7" scroll="0.67" sprite="thing/face" y="-282" scale="2.54" name="face"/>
+	<sprite x="-441" scroll="0.78" sprite="thing/signs" y="-307" type="none" scale="2.35" name="signs"/>
+	<sprite x="-340" scroll="0.88" sprite="thing/iloveyou" y="-203" scale="2.5" name="iloveyou"/>
+	<sprite x="-383" sprite="thing/ground" y="-219.5" type="none" scale="2.2" name="ground"/>
+	<dad x="-60" y="83"/>
+	<boyfriend x="940" y="103"/>
+	<box name="box" x="-600" y="-600" width="2500" height="1800" color="0x000000" />
+</stage>

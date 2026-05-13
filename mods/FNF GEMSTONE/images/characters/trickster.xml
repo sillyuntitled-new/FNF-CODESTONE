@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trickster.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down.png instance 1" x="0" y="0" width="670" height="985"/>
+	<SubTexture name="idle 2.png instance 1" x="670" y="0" width="610" height="937"/>
+	<SubTexture name="left.png instance 1" x="1280" y="0" width="641" height="906"/>
+	<SubTexture name="right.png instance 1" x="0" y="985" width="630" height="925"/>
+	<SubTexture name="up.png instance 1" x="630" y="985" width="617" height="934"/>
+</TextureAtlas>

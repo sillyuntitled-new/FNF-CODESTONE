@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages\umbra/" name="umbra" zoom="0.8">
+	<girlfriend/>
+	<sprite x="-307.132049221379" sprite="bg" y="-162.204420006778" type="none" scalex="4.00742917664397" scaley="4.20778592181317" name="sprite_3"/>
+	<sprite x="446.076118640667" sprite="chair" y="-76.9009742012526" type="none" scalex="0.640625" angle="0.473508058734943" scaley="0.6375" name="sprite_4"/>
+	<dad x="-708.572025806386" y="221.904158780717"/>
+	<boyfriend scale="1"/>
+</stage>

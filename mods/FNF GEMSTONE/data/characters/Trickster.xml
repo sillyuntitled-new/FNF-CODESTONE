@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" y="-200" sprite="trickster 2" scale="1.1" camx="-200" color="#151C2E">
+	<anim name="idle" anim="Idle" loop="true"/>
+	<anim name="singDOWN" anim="Down" fps="72"/>
+	<anim name="singRIGHT" anim="Right" fps="72"/>
+	<anim name="singLEFT" anim="Left" fps="72"/>
+	<anim name="singUP" anim="Up" y="25" fps="72"/>
+</character>

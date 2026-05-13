@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="glitch looky" camx="-2000" camy="-1500" icon="Looky" color="#4994FF">
+	<anim name="idle" anim="Idle instance 1" loop="true"/>
+	<anim name="singDOWN" anim="Down instance 1" x="450" y="1920"/>
+	<anim name="singRIGHT" anim="Right instance 1" x="1897" y="1823"/>
+	<anim name="singLEFT" anim="Left instance 1" x="602" y="1467"/>
+	<anim name="singUP" anim="Up instance 1" x="518" y="972"/>
+</character>

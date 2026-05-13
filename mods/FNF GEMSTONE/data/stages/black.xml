@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages\/" name="black">
+	<girlfriend x="39.0388240801226" y="167.712361663291"/>
+	<dad/>
+	<boyfriend scale="1.44" x="-16.5721146913206" y="83.8375592871646"/>
+	<sprite x="-163.948389760017" sprite="black" y="-410.024570758778" type="none" scalex="2.21752169556042" scaley="1.78218688821045" name="sprite_3"/>
+</stage>

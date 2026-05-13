@@ -1,5 +1,4 @@
-function update() {
-//     if (FlxG.keys.justPressed.TAB) {
-//         FlxG.switchState(new ModState("ModsdeLune"));
-//     }
+function new() {
+    FlxG.save.data.middleOpA ??= 0.5;
+    //FlxG.save.data.middleOp ??= true;
 }

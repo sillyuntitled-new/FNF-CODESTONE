@@ -1,7 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="stages/sillyexstage/" name="Silly EX Stage" zoom="0.7">
-	<sprite x="-245" sprite="beach OLD" y="-274" type="none" scalex="1.89" scaley="1.92" name="beach"/>
-	<girlfriend x="404" y="378"/>
-	<dad x="116" y="314"/>
-	<boyfriend x="814" y="320"/>
-</stage>

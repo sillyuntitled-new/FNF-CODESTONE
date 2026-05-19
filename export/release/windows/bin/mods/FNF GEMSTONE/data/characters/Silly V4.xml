@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character y="10" sprite="SILLLY MY BABYYYY" scale="0.8" camx="-100" camy="-20" icon="Silly V4" color="#21334C">
-	<anim name="idle" anim="Idle" fps="15" loop="true"/>
-	<anim name="singDOWN" anim="Down" y="-15" fps="48"/>
-	<anim name="singRIGHT" anim="Right" x="-40" fps="48"/>
-	<anim name="singLEFT" anim="Left" x="50" fps="48"/>
-	<anim name="singUP" anim="Up" x="80" y="30" fps="48"/>
-</character>

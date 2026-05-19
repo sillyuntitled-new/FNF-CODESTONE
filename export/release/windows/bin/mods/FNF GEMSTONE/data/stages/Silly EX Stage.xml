@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="stages/sillyexstage/" name="Silly EX Stage" zoom="0.5">
-	<sprite x="-309.805462768009" y="-633" type="none" angle="0.11" name="Sky" sprite="silly_sky" scalex="2.52" skewx="0.285409707600652" scaley="2.27"/>
-	<sprite x="-333.36175260111" sprite="silly_ground" y="-532.200225406324" type="none" scalex="2.62226282679573" angle="-0.0698646487580348" scaley="2.47148106640038" name="Ground"/>
-	<girlfriend/>
-	<dad/>
-	<boyfriend/>
-</stage>

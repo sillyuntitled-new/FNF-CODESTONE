@@ -15,7 +15,8 @@ import haxe.crypto.Sha256;
 var source = [
 	{password: "889922a318c94711cb5f3a5a293bae491d60fae25c7edc15d74aebc8295f20a2", song: "helper bot", difficulty: "hard"}, // this is "im the goat??"
     {password: "c8d3026fe3afe8553362ce3732c387812b527a521ea989c3461ef1c744a8731a", song: "europlush", difficulty: "normal"}, // this is "covered up"
-	{password: "d79db76501353e8e082f8b8467dedee0a107970ba4cec8b0d95a6e0ff44c1b25", song: "defeat", difficulty: "normal"} // this is "gametoons"
+	{password: "d79db76501353e8e082f8b8467dedee0a107970ba4cec8b0d95a6e0ff44c1b25", song: "defeat", difficulty: "normal"}, // this is "gametoons"
+	{password: "64aac4add68ad7c36b2b8e32182a38feaebb8274335254c9e7f37010374adfbd", song: "umbra", difficulty: "normal"} // this is "glitch"
 ];
 
 var inputKey:UITextBox;

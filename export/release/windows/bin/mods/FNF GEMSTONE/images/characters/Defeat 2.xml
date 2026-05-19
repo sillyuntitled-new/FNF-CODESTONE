@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="stages/defeat/" name="Defeat" zoom="0.5">
-	<sprite x="-557.123715513079" sprite="defeat" y="-272.300628737562" scalex="2.40919462768655" scaley="1.50923079726291" name="bg"/>
-	<sprite x="-639.142653668675" sprite="idontknow" y="217.840121864874" type="none" scalex="1.49435926043603" scaley="1.55898854035592" name="idunno"/>
-	<girlfriend/>
-	<dad x="-247.248477580794" y="142.811456140098"/>
-	<boyfriend x="831.838770285178" y="133.297799286208"/>
-</stage>

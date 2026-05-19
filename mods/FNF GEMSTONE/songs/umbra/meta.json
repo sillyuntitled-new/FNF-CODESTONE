@@ -1,14 +1,14 @@
 {
 	"customValues": {},
-	"color": "#9271FD",
+	"color": "#000000",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "Looky",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
-	"displayName": "umbra",
+	"displayName": "Umbra",
 	"needsVoices": true,
 	"beatsPerMeasure": 4,
 	"bpm": 110

@@ -1,7 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="stages/baseplate/" name="Baseplate" zoom="0.5">
-	<sprite x="-323.829242265594" sprite="bg" y="-220.69672369414" type="none" scalex="2.51858137735921" scaley="2.2286033202138" name="sprite_3"/>
-	<girlfriend x="365.71428557343" y="-49.0476239326038"/>
-	<dad x="-37.809624634843" y="81.0369543701661"/>
-	<boyfriend x="876.666666668088" y="115.238095239146"/>
-</stage>

@@ -1,3 +1,5 @@
 export
 /export
-export/release/windows/bin/assets/data/characters/bf-pixel-dead.xml
+.haxelib
+.gitignore
+

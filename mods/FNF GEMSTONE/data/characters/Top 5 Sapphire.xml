@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character x="-200" y="-300" camx="-150" camy="-200" icon="Sapphire" color="#FFFFFF">
+<character x="-200" y="-300" sprite="Top 5 Sapphire" camx="-150" camy="-200" icon="Sapphire" color="#FFFFFF">
 	<anim name="idle" anim="Idle instance 1"/>
 	<anim name="singDOWN" anim="Down instance 1" y="503"/>
-	<anim name="singRIGHT" anim="Right instance 1" x="-40" y="30" fps="40"/>
+	<anim name="singRIGHT" anim="Right instance 1" x="-44" y="28" fps="40"/>
 	<anim name="singLEFT" anim="Left instance 1" x="130" fps="40"/>
 	<anim name="singUP" anim="Up instance 1" x="120" y="130" fps="40"/>
 </character>

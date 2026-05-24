@@ -4,5 +4,5 @@
 	<anim name="singDOWN" anim="Down instance 1" x="-18" y="-86" fps="70"/>
 	<anim name="singRIGHT" anim="Left instance 1" x="-37" y="10" fps="70"/>
 	<anim name="singLEFT" anim="Right instance 1" x="93" y="3" fps="70"/>
-	<anim name="singUP" anim="UP instance 1" x="-4" y="74" fps="70"/>
+	<anim name="singUP" anim="UP instance 1" x="77" y="86" fps="70"/>
 </character>

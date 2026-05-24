@@ -13,17 +13,17 @@
 
 	<intro length="16">
 		<text beat="1">
-			<line text="ninjamuffin99" />
-			<line text="phantomArcade" />
-			<line text="kawaisprite" />
-			<line text="evilsk8r" />
+			<line text="Sapphire Animates" />
+			<line text="LookyReviewsTiktok" />
+			<line text="jagweezy" />
+			<line text="Magnet" />
 		</text>
 
 		<text beat="3">
-			<line text="ninjamuffin99" />
-			<line text="phantomArcade" />
-			<line text="kawaisprite" />
-			<line text="evilsk8r" />
+			<line text="Sapphire Animates" />
+			<line text="LookyReviewsTiktok" />
+			<line text="jagweezy" />
+			<line text="Magnet" />
 			<line text="presents" />
 		</text>
 
@@ -37,7 +37,8 @@
 		<text beat="7">
 			<line text="In association" />
 			<line text="with" />
-			<line text="Newgrounds" />
+			<line text="PROJECT: VOID" />
+			<line text="Object Attack" />
 			<sprite path="menus/titlescreen/newgrounds_logo" scale="0.8"/>
 		</text>
 

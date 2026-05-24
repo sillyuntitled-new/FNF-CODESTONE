@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Object Sapphire" flipX="true" isPlayer="true" icon="Object Sapphire" color="#FFFFFF">
+	<anim name="idle" anim="Idle instance 1"/>
+	<anim name="singDOWN" anim="Down instance 1" x="97" y="-46" fps="72"/>
+	<anim name="singRIGHT" anim="Right instance 1" x="-10" y="20" fps="72"/>
+	<anim name="singLEFT" anim="Left instance 1" x="90" y="8" fps="72"/>
+	<anim name="singUP" anim="Up instance 1" x="14" y="156" fps="72"/>
+</character>
